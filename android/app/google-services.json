@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "403298807073",
+    "project_id": "elha-ny",
+    "storage_bucket": "elha-ny.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403298807073:android:61554ed515437c34b46260",
+        "android_client_info": {
+          "package_name": "com.example.elha2ny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403298807073-mje9umt6b8kr7ur49llo9nbt2ctanjmv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elha2ny",
+            "certificate_hash": "606ef792f2bde8dcc66e58692185266fa15a103c"
+          }
+        },
+        {
+          "client_id": "403298807073-dspn7eon2uocmnalvh0222qgqdvr2l90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTnzPuoQBforDsCp8o-fog-2a5jlmFU3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403298807073-dspn7eon2uocmnalvh0222qgqdvr2l90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
